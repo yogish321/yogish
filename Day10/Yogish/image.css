@@ -1,0 +1,14 @@
+.image {
+    width: 418px;
+    height: 608px;
+  }
+  
+  .image .rectangle {
+    position: fixed;
+    width: 545px;
+    height: 849px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
