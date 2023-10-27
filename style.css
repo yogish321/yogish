@@ -1,0 +1,39 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0px !important;
+}
+
+.h-full {
+  height: 100vh;
+}
+
+/* LOGIN PAGE */
+.login-billboard {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.user-avatar {
+  width: 50px;
+  height: 50px;
+}
+
+.contact_email {
+  font-size: 0.8rem;
+}
+
+.contact_address {
+  font-size: 1rem;
+}
+
+.sliced-text {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
